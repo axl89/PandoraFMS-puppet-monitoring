@@ -1,4 +1,4 @@
-PandoraFMS-puppet-monitoring
+PandoraFMS Puppet monitoring
 ============================
 
 Agent plugin for monitoring Puppet agents with Pandora FMS.
@@ -9,4 +9,9 @@ For deploying agent plugins, check out [Pandora FMS's documentation about this t
 ============
 
 Pandora FMS is a **flexible monitoring solution** for networks, servers, applications, virtual environments and much more.
+
+[Puppet](http://puppetlabs.com/)
+========
+
+Puppet is a declarative, model-based approach to IT automation, helping you manage infrastructure throughout its lifecycle, from provisioning and configuration to orchestration and reporting.
 
